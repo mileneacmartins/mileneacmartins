@@ -1,13 +1,11 @@
 ## Hi guys 👋 I'm Milene!
 
-__print("Engenheira de Software apaixonada por desafios, mergulhando no universo da Inteligência Artificial e Ciência de Dados")__
+__print("Engenheira de Inteligência Artificial")__
 
 #
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=sql)
 ![GCP](https://img.shields.io/badge/-GCP-000000?style=flat-square&logo=google-cloud)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase)
@@ -16,7 +14,6 @@ __print("Engenheira de Software apaixonada por desafios, mergulhando no universo
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000000?style=flat-square&logo=elasticsearch)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat-square&logo=gitlab)<p>
