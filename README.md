@@ -25,7 +25,7 @@ __print("Da Engenharia de Software ao futuro da Inteligência Artificial")__
   <img alt="Outlook" src="https://img.shields.io/badge/-milene.martins@blueshiftacademy.com.br-000000?style=flat-square&logo=microsoft-outlook&logoColor=white">
 </a><p></p>
 <a href="https://www.instagram.com/techmi.martins/">
-  <img alt="Instagram" src="https://img.shields.io/badge/-techmi.martins-000000?style=flat-square&logo=instagram&logoColor=white">
+  <img alt="Instagram" src="https://img.shields.io/badge/-mimartins.tech-000000?style=flat-square&logo=instagram&logoColor=white">
 </a><p></p>
 <a href="https://www.linkedin.com/in/milene-almeida-cordeiro-martins/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-Milene Martins-000000?style=flat-square&logo=linkedin&logoColor=white">
