@@ -4,6 +4,7 @@ _print("Engenheira de Inteligência Artificial Generativa")_
 
 #
 **Adquirindo experiências e conhecimentos nas áreas:** <p>
+- Inteligência Artificial. <p>
 - Ciência de Dados. <p>
 - Engenharia de Dados. <p>
 - Engenharia de Prompt. <p>
