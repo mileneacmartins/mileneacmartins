@@ -38,4 +38,4 @@ Voluntária nas comunidades **PyLadies - SP [python]** e **Data Girls [IA e Dado
   <img alt="LinkedIn" src="https://img.shields.io/badge/-Milene Martins-000000?style=flat-square&logo=linkedin&logoColor=white">
 </a><p>
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileneacmartins&layout=compact&theme=dark)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileneacmartins&layout=compact&theme=dark)
